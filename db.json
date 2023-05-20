@@ -25,22 +25,26 @@
     "kategori_artikel": [{
             "id": 1,
             "title": "Baju",
-            "slug": "baju"
+            "slug": "baju",
+            "articleCount": 1
         },
         {
             "id": 2,
             "title": "Rumah Tangga",
-            "slug": "rumah-tangga"
+            "slug": "rumah-tangga",
+            "articleCount": 3
         },
         {
             "id": 3,
             "title": "Mainan",
-            "slug": "mainan"
+            "slug": "mainan",
+            "articleCount": 2
         },         
         {
             "id": 4,
             "title": "Kecantikan",
-            "slug": "kecantikan"
+            "slug": "kecantikan",
+            "articleCount": 5
         }
     ]
 }
