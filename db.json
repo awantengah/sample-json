@@ -22,7 +22,7 @@
         "author": "Admin",
         "postAt": "3 Desember 2022"
     },
-    "kategori_artikel": [{
+    "article_category": [{
             "id": 1,
             "title": "Baju",
             "slug": "baju",
