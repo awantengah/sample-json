@@ -24,26 +24,26 @@
     },
     "article_category": [{
             "id": 1,
-            "title": "Baju",
-            "slug": "baju",
+            "title": "Politic",
+            "slug": "politic",
             "articleCount": 1
         },
         {
             "id": 2,
-            "title": "Rumah Tangga",
-            "slug": "rumah-tangga",
+            "title": "Lifestyle",
+            "slug": "lifestyle",
             "articleCount": 3
         },
         {
             "id": 3,
-            "title": "Mainan",
-            "slug": "mainan",
+            "title": "Fashion",
+            "slug": "fashion",
             "articleCount": 2
         },         
         {
             "id": 4,
-            "title": "Kecantikan",
-            "slug": "kecantikan",
+            "title": "Inspiration",
+            "slug": "inspiration",
             "articleCount": 5
         }
     ],
@@ -73,6 +73,31 @@
             "content": "The European languages are members of the same family. Their separate existence is a myth. For science, music, sport, etc, Europe uses the same vocabulary. The languages only differ in their. The European languages are members of the same family. Their separate existence is a myth. For science, music, sport, etc, Europe uses the same vocabulary. The languages only differ in their. The European languages are members of the same family. Their separate existence is a myth. For science, music, sport, etc, Europe uses the same vocabulary. The languages only differ in their. The European languages are members of the same family. Their separate existence is a myth. For science, music, sport, etc, Europe uses the same vocabulary. The languages only differ in their. The European languages are members of the same family. Their separate existence is a myth. For science, music, sport, etc, Europe uses the same vocabulary. The languages only differ in their. The European languages are members of the same family. Their separate existence is a myth. For science, music, sport, etc, Europe uses the same vocabulary. The languages only differ in their. The European languages are members of the same family. Their separate existence is a myth. For science, music, sport, etc, Europe uses the same vocabulary. The languages only differ in their. The European languages are members of the same family. Their separate existence is a myth. For science, music, sport, etc, Europe uses the same vocabulary. The languages only differ in their.",
             "author": "Admin",
             "postAt": "August 02, 2022"
+        }
+    ],
+    "product_category": [{
+            "id": 1,
+            "title": "Baju",
+            "slug": "baju",
+            "productCount": 1
+        },
+        {
+            "id": 2,
+            "title": "Rumah Tangga",
+            "slug": "rumah-tangga",
+            "productCount": 3
+        },
+        {
+            "id": 3,
+            "title": "Mainan",
+            "slug": "mainan",
+            "productCount": 2
+        },         
+        {
+            "id": 4,
+            "title": "Kecantikan",
+            "slug": "kecantikan",
+            "productCount": 5
         }
     ]
 }
